@@ -1,0 +1,3 @@
+algoritmo, tiempo, memoria
+MedicionPredecirTrie, 5865900, 10450631
+MedicionPredecirTrieHashMap, 9552900, 9704326
